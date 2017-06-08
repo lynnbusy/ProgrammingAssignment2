@@ -1,4 +1,3 @@
-## Write a short comment describing this function
 ## This program use data caching to optimize matrix inversion. 
 
 ## create a cachedMatrix with bound matrix "x", inversion result "m"
